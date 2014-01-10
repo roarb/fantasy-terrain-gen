@@ -7,7 +7,7 @@
         id        = "com.wargenius.terrain"
         version   = "0.1.1">
  
-    <name>WarGenius</name>
+    <name>WarGenius Terrain Generator</name>
  
     <description>
        WarGenius Terrain Generator
